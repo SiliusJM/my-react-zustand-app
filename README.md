@@ -7,9 +7,9 @@ A diferencia de Redux o Context, Zustand ofrece una API más simple y directa si
 
 ## 📖 Descripción
 
-- **Zustand Configuración del Store (21):**  
+- **Zustand Configuración del Store:**  
   Creación de un store global con `create` que maneja el estado de las tareas y las acciones (`addTodo`, `removeTodo`).
 
-- **Zustand Componente Todo List (22):**  
+- **Zustand Componente Todo List:**  
   Un componente conectado al store que permite **agregar tareas** y **eliminarlas al hacer clic**.  
   Incluye un pequeño **mapa de emojis personalizados** para hacer más divertida la lista.
